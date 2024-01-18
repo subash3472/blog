@@ -1,0 +1,42 @@
+/* styles.css */
+.lightheader {
+  background: linear-gradient(to right, #ff6b6b, #ffc1a1);
+  color: #333333;
+}
+
+.darkheader {
+  background: linear-gradient(to right, #141e30, #243b55);
+  color: #ffffff;
+}
+
+.lightlink {
+  color: #2f4f4f; /* Default color for links in light mode */
+  text-decoration: none;
+}
+
+.darklink {
+  color: yellow; /* Default color for links in dark mode */
+  text-decoration: none;
+}
+
+header .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  margin-left: 20px;
+}
+
+.container {
+  padding-bottom: 40px;
+}

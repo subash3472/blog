@@ -1,0 +1,31 @@
+.outer {
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+/* light mode title */
+.lightdisplaytitle {
+  color: #333333;
+}
+
+/* dark mode title */
+
+.darkdisplaytitle {
+  color: #cccccc;
+}
+
+/* theme body */
+/* light */
+.lightdisplaybody {
+  color: #333333;
+}
+/* dark */
+
+.darkdisplaybody {
+  color: #ccccccd9;
+  padding-bottom: 50px;
+}

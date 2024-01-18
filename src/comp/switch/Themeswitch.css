@@ -1,0 +1,7 @@
+.themeswitch-input:checked {
+  background-color: #333;
+}
+
+.themeswitch-switch {
+  margin-top: 10px;
+}

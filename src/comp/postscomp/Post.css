@@ -1,0 +1,15 @@
+.card {
+  margin-bottom: 25px !important;
+  margin-top: 25px;
+}
+
+.card-header {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+}
+
+.card-text {
+  background-color: cadetblue;
+  color: whitesmoke;
+}
